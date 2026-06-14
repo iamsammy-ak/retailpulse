@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI local artefacts (keep .pbix if you commit it; ignore temp)
+*.tmp
+~$*.pbix
+
+# IDE
+.vscode/
+.idea/

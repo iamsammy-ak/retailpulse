@@ -1,0 +1,8 @@
+RegionKey,RegionGroup,Country,City,ChannelMix
+1,EMEA,UK,London,Online + Retail
+2,EMEA,Germany,Berlin,Online + Retail
+3,APAC,Japan,Tokyo,Online
+4,APAC,India,Mumbai,Online + Retail
+5,NA,USA,New York,Online + Retail
+6,NA,USA,Chicago,Retail
+7,LATAM,Brazil,Sao Paulo,Online + Retail
